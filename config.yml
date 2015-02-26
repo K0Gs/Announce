@@ -1,0 +1,29 @@
+# On Join Message to player
+onjoin: "Welcome to server, "
+
+# Message to repeat to all players on a timer
+enabled: true
+repeat: "Please visit www.game.com for the news."
+# 30 second multipules between messages
+interval: 1
+
+enabled2: true
+repeat2: "Please visit www.game.com for the news."
+# 33 second multipules between messages
+interval2: 2
+
+enabled3: true
+repeat3: "Please visit www.game.com for the news."
+# 36 second multipules between messages
+interval3: 3
+
+enabled4: true
+repeat4: "Please visit www.game.com for the news."
+# 39 second multipules between messages
+interval4: 4
+
+enabled5: true
+repeat5: "Please visit www.game.com for the news."
+# 42 second multipules between messages
+interval5: 5
+

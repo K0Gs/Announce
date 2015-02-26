@@ -1,0 +1,4 @@
+name: Announce
+main: announce.App
+version: 0.4
+      
